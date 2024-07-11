@@ -15,9 +15,9 @@
 - 🌱 I’m currently learning **AngularJS and many more in Backend Development.** 
 - 👨‍💻 All of my projects are available at
 [https://vishal-verma-portfolio.netlify.app](https://vishal-verma-portfolio.netlify.app)
-- 💬 Ask me about **Frontend and its frameworks...**
-- 📫 How to reach me **vishal050506@gmail.com**
--  📄 Know about my experiences [https://linktr.ee/vishal050506](https://linktr.ee/vishal050506)
+- 💬 Ask me about -> **Frontend and its frameworks...**
+- 📫 How to reach me -> **vishal050506@gmail.com**
+-  📄 Know about my experiences -> [https://linktr.ee/vishal050506](https://linktr.ee/vishal050506)
 -  ⚡ Fun fact -> **I once turned my daily to-do list into an interactive web app just for fun! It
 not only helped me stay organized but also allowed me to experiment with new
 React features and CSS animations.**
