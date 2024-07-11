@@ -1,3 +1,4 @@
+![logo](https://github.com/vishal050506/vishal050506/blob/main/Black%20Minimalist%20Corporate%20Business%20Personal%20Profile%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Vishal</h1>
 <h3 align="center">
   I'm a dedicated Frontend Developer with a strong passion for creating dynamic
